@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6159614-4a39-494b-8131-5486508fc29f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/jk/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/AnimalList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/AnimalList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/AnimalMovementAtack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/AnimalMovementAtack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/AnimalStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/AnimalStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/AnimalType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/AnimalType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/Galinha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/Galinha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/OncaPintada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/OncaPintada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/Vaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/Vaca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -69,7 +74,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/jk/Main.java</url>
-          <line>31</line>
+          <line>17</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

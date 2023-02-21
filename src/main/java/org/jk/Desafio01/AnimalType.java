@@ -1,4 +1,4 @@
-package org.jk;
+package org.jk.Desafio01;
 
 public enum AnimalType {
     HERBIVORO,
