@@ -6,15 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c6159614-4a39-494b-8131-5486508fc29f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/AnimalList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/AnimalList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/AnimalMovementAtack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/AnimalMovementAtack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/AnimalStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/AnimalStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/AnimalType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/AnimalType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/Galinha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/Galinha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/OncaPintada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/OncaPintada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/jk/Vaca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/jk/Desafio01/Vaca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +44,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="JUnit.Desafio04Teste.verificaAnimaisRapidos">
+    <configuration name="Desafio04Teste" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webIII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafio04Teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Desafio04Teste" />
+      <option name="MAIN_CLASS_NAME" value="Desafio04Teste.Desafio04Teste" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Desafio04Teste.verificaAnimaisRapidos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="webIII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Desafio04Teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Desafio04Teste" />
+      <option name="MAIN_CLASS_NAME" value="Desafio04Teste.Desafio04Teste" />
+      <option name="METHOD_NAME" value="verificaAnimaisRapidos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Desafio04Teste.verificaAnimaisRapidos" />
+        <item itemvalue="JUnit.Desafio04Teste" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,10 +109,23 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/jk/Main.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="2" />
+          <line>49</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="todos" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/webIII$Desafio04Teste_verificaAnimaisRapidos.ic" NAME="Desafio04Teste.verificaAnimaisRapidos Coverage Results" MODIFIED="1677332047661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Desafio04Teste.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/webIII$Desafio04Teste.ic" NAME="Desafio04Teste Coverage Results" MODIFIED="1677331567110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Desafio04Teste.*</FILTER>
+    </SUITE>
   </component>
 </project>
